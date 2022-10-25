@@ -65,16 +65,15 @@ theme:
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
-      accent: indigo
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
   icon:
-    logo: logo
+    logo: assets/images/58137.png
 
 # Plugins
 plugins:
