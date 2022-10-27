@@ -50,10 +50,10 @@ font:
 
 # From Material 5.x on, icons are inlined into the HTML and CSS as SVGs. Some
 # icons that are part of the HTML can be configured and replaced
-icon:
+icon: images/logo/59137.svg
 
 # Favicon to be rendered
-favicon: assets/images/favicon.png
+favicon: images/logo/59137.svg
 
 # Material includes the search in the header as a partial, not as a separate
 # template, so it's correct that search.html is missing
