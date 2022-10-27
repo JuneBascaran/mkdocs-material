@@ -72,6 +72,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  icon: images/logo/59137.svg
+  favicon: images/logo/59137.svg
 
 # Plugins
 plugins:
