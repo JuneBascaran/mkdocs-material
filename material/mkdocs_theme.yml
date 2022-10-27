@@ -50,7 +50,7 @@ font:
 
 # From Material 5.x on, icons are inlined into the HTML and CSS as SVGs. Some
 # icons that are part of the HTML can be configured and replaced
-icon: images/logo/59137.svg
+icon: docs/assets/59137.svg
 
 # Favicon to be rendered
 favicon: images/logo/59137.svg
